@@ -1,0 +1,1 @@
+-DCMAKE_PREFIX_PATH=/mnt/data/workspace/libhand/hand_cpp/build/source -DLibHand_DIR=/mnt/data/workspace/libhand/hand_cpp/build/source -DCMAKE_CXX_COMPILER=/usr/bin/g++ -DCMAKE_C_COMPILER=/usr/bin/gcc
